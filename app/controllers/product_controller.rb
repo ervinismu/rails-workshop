@@ -14,7 +14,7 @@ class ProductController < ApplicationController
     def destroy
         if @product
             @product.destroy!
-            render json: {message: "success deleted product"} , status: :unprocessable_entity            
+            render json: {message: "success deleted product"} , status: :ok            
         else
             render json: {message: "failed deleted product"} , status: :unprocessable_entity
         end
