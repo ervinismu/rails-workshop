@@ -1,4 +1,5 @@
 # rails-workshop
+Simple CRUD API usung Ruby on Rails framework
 
 # Pre
 - Ruby version 2.5.0 or higher
