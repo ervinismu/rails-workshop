@@ -1,6 +1,6 @@
 class ProductController < ApplicationController
     skip_before_action :verify_authenticity_token  
-    before_action :find_product, only: [:show, :destroy]
+    before_action :find_product, only: [:destroy]
 
     def index
         products = Product.all
@@ -8,7 +8,8 @@ class ProductController < ApplicationController
     end
 
     def show
-        render json: @product.blank? ? { data: "product not found"} : @product, status: :ok
+        product = Product.find_by(id: params[:id])
+        render json: product.nil? ? { data: "product not found"} : product, status: :ok
     end
 
     def destroy
