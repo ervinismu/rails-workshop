@@ -6,13 +6,16 @@ Simple CRUD API usung Ruby on Rails framework
 - Bundler
 - Rails
 
-# Run
+# Run Local
 - `git clone <url repo>` | Clone this repo
 - `bundle install`  | Install gem
 - `rake db:create`  | Create database
 - `rake db:migrate` | Create migration
 - `rails server`  | Running rails server in localhost
 - running at http://localhost:3000
+
+# Run Testing
+- `bin/rails test`
 
 #### Author 
 ervinismu | social.ervin@gmail.com
