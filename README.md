@@ -15,7 +15,8 @@ Simple CRUD API usung Ruby on Rails framework
 - running at http://localhost:3000
 
 # Run Testing
-- `bin/rails test`
+- `bundle exec rspec`
+- Open file `index.html` in `coverage/index.html` in browser for show code coverage
 
 #### Author 
 ervinismu | social.ervin@gmail.com
