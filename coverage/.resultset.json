@@ -9,19 +9,87 @@
         null,
         null,
         1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/ervinismu/Work/Ruby/blog-workshop/app/models/product.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ervinismu/Work/Ruby/blog-workshop/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ervinismu/Work/Ruby/blog-workshop/app/controllers/product_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
         0,
         0,
         null,
         null,
         1,
+        0,
+        0,
+        0,
         null,
         0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
         0,
         null,
         null,
         null
+      ],
+      "/home/ervinismu/Work/Ruby/blog-workshop/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/ervinismu/Work/Ruby/blog-workshop/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/ervinismu/Work/Ruby/blog-workshop/app/helpers/product_helper.rb": [
+        1,
+        null
       ]
     },
-    "timestamp": 1534529466
+    "timestamp": 1534532404
   }
 }
