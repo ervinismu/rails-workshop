@@ -16,7 +16,7 @@ Simple CRUD API usung Ruby on Rails framework
 
 # Run Testing
 - `bundle exec rspec`
-- Open file `index.html` in `coverage/index.html` in browser for show code coverage
+- Open file `index.html` in `file:///<your-path-to-file>/blog-workshop/coverage/index.html` in browser for show code coverage
 
 #### Author 
 ervinismu | social.ervin@gmail.com
