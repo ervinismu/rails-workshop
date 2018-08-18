@@ -34,4 +34,12 @@ RSpec.describe ProductController, type: :controller do
 		end
 	end
 
+	describe 'DELETE /product/delete' do
+		let(:product_id) {	{	"id": 1	}	}
+		before { delete :destroy, params: product_id }
+		it 'return HTTP status 422 if error' do
+			expect(response).to have_http_status(422)
+		end
+	end
+
 end

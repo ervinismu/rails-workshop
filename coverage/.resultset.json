@@ -281,11 +281,11 @@
         null,
         null,
         1,
-        0,
+        1,
         0,
         0,
         null,
-        0,
+        1,
         null,
         null,
         null,
@@ -301,7 +301,7 @@
         1,
         null,
         1,
-        0,
+        1,
         null,
         null,
         1,
@@ -355,6 +355,14 @@
         null,
         null,
         null,
+        1,
+        2,
+        2,
+        1,
+        1,
+        null,
+        null,
+        null,
         null
       ],
       "/home/ervinismu/Work/Ruby/blog-workshop/spec/routing/product_routing_spec.rb": [
@@ -397,6 +405,6 @@
         null
       ]
     },
-    "timestamp": 1534566394
+    "timestamp": 1534568409
   }
 }
