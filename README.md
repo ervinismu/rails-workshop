@@ -16,7 +16,7 @@ Simple CRUD API usung Ruby on Rails framework
 
 # Run Testing
 - `rake test`
-- Open file index.html in `coverage/index.html` in browser for show code coverage
+- Open file `index.html` in `coverage/index.html` in browser for show code coverage
 
 #### Author 
 ervinismu | social.ervin@gmail.com
