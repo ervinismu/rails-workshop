@@ -15,7 +15,7 @@ Simple CRUD API usung Ruby on Rails framework
 - running at http://localhost:3000
 
 # Run Testing
-- `bin/rails test`
+- `rake test`
 
 #### Author 
 ervinismu | social.ervin@gmail.com
