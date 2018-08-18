@@ -6,7 +6,12 @@ require File.expand_path('../../config/environment', __FILE__)
 abort("The Rails environment is running in production mode!") if Rails.env.production?
 require 'rspec/rails'
 require 'simplecov'
-SimpleCov.start
+SimpleCov.start do
+	add_group "Models", "app/models"
+	add_group "Controllers", "app/controllers"
+	add_group "Config", "config"
+end
+puts "SimpleCov started successfully! Open coverage/index.html file in your browser!"
 # Add additional requires below this line. Rails is not loaded until this point!
 
 # Requires supporting ruby files with custom matchers and macros, etc, in
