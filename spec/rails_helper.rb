@@ -11,6 +11,8 @@ SimpleCov.start do
 	add_group "Controllers", "app/controllers"
 	add_group "Config", "config"
 end
+require 'codecov'
+SimpleCov.formatter = SimpleCov::Formatter::Codecov
 puts "SimpleCov started successfully! Open coverage/index.html file in your browser!"
 # Add additional requires below this line. Rails is not loaded until this point!
 

@@ -54,6 +54,10 @@ GEM
       xpath (>= 2.0, < 4.0)
     childprocess (0.9.0)
       ffi (~> 1.0, >= 1.0.11)
+    codecov (0.1.14)
+      json
+      simplecov
+      url
     coderay (1.1.2)
     coffee-rails (4.2.2)
       coffee-script (>= 2.2.0)
@@ -212,6 +216,7 @@ GEM
     uglifier (4.1.17)
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.4.0)
+    url (0.3.2)
     web-console (3.6.2)
       actionview (>= 5.0)
       activemodel (>= 5.0)
@@ -229,6 +234,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   capybara (~> 2.13)
+  codecov
   coffee-rails (~> 4.2)
   factory_bot
   jbuilder (~> 2.5)
