@@ -7,9 +7,9 @@ RSpec.describe ProductController, type: :controller do
 			get :index
 		end
 
-		it "return http success" do
-			expect(response).to have_http_status(200)
-		end
+		# it "return http success" do
+		# 	expect(response).to have_http_status(200)
+		# end
 	end
 
 end
