@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/ervinismu/Work/Ruby/blog-workshop/spec/controllers/product_controller_spec.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/spec/controllers/product_controller_spec.rb": [
         1,
         null,
         1,
@@ -18,7 +18,7 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/spec/rails_helper.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -88,14 +88,14 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/environment.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/application.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/application.rb": [
         1,
         null,
         1,
@@ -115,12 +115,12 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/boot.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/boot.rb": [
         1,
         null,
         1
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/environments/test.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/environments/test.rb": [
         1,
         null,
         null,
@@ -164,7 +164,7 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/application_controller_renderer.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -174,7 +174,7 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/assets.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -190,7 +190,7 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/backtrace_silencers.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -199,20 +199,20 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/cookies_serializer.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/cookies_serializer.rb": [
         null,
-        null,
-        null,
-        null,
-        1
-      ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/inflections.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/filter_parameter_logging.rb": [
+        null,
+        null,
+        null,
+        1
+      ],
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -230,13 +230,13 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/mime_types.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/initializers/wrap_parameters.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -252,7 +252,7 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/config/routes.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/config/routes.rb": [
         1,
         null,
         1,
@@ -262,15 +262,16 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/app/helpers/application_helper.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/app/helpers/product_helper.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/app/helpers/product_helper.rb": [
         1,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/app/controllers/product_controller.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/app/controllers/product_controller.rb": [
+        null,
         1,
         1,
         1,
@@ -278,11 +279,23 @@
         1,
         2,
         2,
+        0,
+        null,
+        2,
         null,
         null,
+        null,
+        null,
+        null,
         1,
         1,
         1,
+        0,
+        null,
+        1,
+        null,
+        null,
+        null,
         null,
         null,
         1,
@@ -290,19 +303,27 @@
         0,
         0,
         null,
+        null,
+        null,
         1,
         null,
         null,
         null,
+        null,
+        null,
         1,
         1,
         1,
         1,
+        null,
+        null,
         null,
         0,
         null,
         null,
         null,
+        null,
+        null,
         1,
         null,
         1,
@@ -311,19 +332,18 @@
         null,
         1,
         1,
-        null,
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/app/controllers/application_controller.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/app/controllers/application_controller.rb": [
         1,
         1,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/spec/models/product_spec.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/spec/models/product_spec.rb": [
         1
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/spec/requests/products_spec.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/spec/requests/products_spec.rb": [
         1,
         null,
         1,
@@ -370,7 +390,7 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/spec/routing/product_routing_spec.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/spec/routing/product_routing_spec.rb": [
         1,
         null,
         1,
@@ -399,17 +419,17 @@
         null,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/app/models/product.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/app/models/product.rb": [
         1,
         1,
         null
       ],
-      "/home/ervinismu/Work/Ruby/blog-workshop/app/models/application_record.rb": [
+      "/home/ervinismu/Work/Ruby/rails-workshop/app/models/application_record.rb": [
         1,
         1,
         null
       ]
     },
-    "timestamp": 1534569711
+    "timestamp": 1542211533
   }
 }

@@ -5,6 +5,7 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+gem 'rubocop', '~> 0.60.0', require: false
 gem 'factory_bot'
 gem 'simplecov'
 gem 'pry'
